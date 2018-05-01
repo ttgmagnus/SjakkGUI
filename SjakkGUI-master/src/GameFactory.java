@@ -101,7 +101,6 @@ public class GameFactory {
 
 
 
-
         cur = new Point(4, 7);
 
 
